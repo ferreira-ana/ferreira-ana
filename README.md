@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ana 👋
 
-<!--
-**ferreira-ana/ferreira-ana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Full stack JavaScript developer with a focus on frontend development.
+I enjoy building well-structured, documented and maintainable web applications.
 
-Here are some ideas to get you started:
+## Stack
+**Frontend:** JavaScript (ES6+), Vue.js, React, HTML, CSS/Sass  
+**Backend:** Node.js, Express, MongoDB  
+**Tools:** Git, Linux, Jest, Jira  
+**Security:** OWASP Top 10, secure development practices  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+TypeScript, Docker, CI/CD
+
+## Projects
+- [Clothing Management App](https://github.com/ferreira-ana/closet-demo) - Full stack application with 
+authentication, private image storage and structured error handling.
+Built with Vue.js, Pinia, Node.js, Express and MongoDB.
+UX/UI designed and implemented from scratch.
+
+- [Family Finances Management App](https://github.com/ferreira-ana/Switch-project) - Full stack group project 
+built with Java, SQL and React, structured around Onion Architecture with 
+a strong focus on software architecture documentation.
+
+You can find my portfolio linked in my bio.
+
+## Open to Opportunities
+Currently based in Portugal, open to relocating within the EU (EU citizen).
