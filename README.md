@@ -13,7 +13,7 @@ I enjoy building well-structured, documented and maintainable web applications.
 TypeScript, Docker, CI/CD
 
 ## Projects
-- [Clothing Management App](https://github.com/ferreira-ana/closet-demo) - Full stack application with 
+- [Clothing Management App](https://github.com/ferreira-ana/the-closet-app) - Full stack application with 
 authentication, private image storage and structured error handling.
 Built with Vue.js, Pinia, Node.js, Express and MongoDB.
 UX/UI designed and implemented from scratch.
