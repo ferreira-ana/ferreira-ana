@@ -1,16 +1,12 @@
 # Hi, I'm Ana 👋
 
-I am Full stack JavaScript developer with a focus on frontend development.
-I enjoy building well-structured, documented and maintainable web applications.
+I'm a software developer with experience in full-stack development, technical application support and production troubleshooting.
 
 ## Stack
 **Frontend:** JavaScript (ES6+), Vue.js, React, HTML, CSS/Sass  
 **Backend:** Node.js, Express, MongoDB  
 **Tools:** Git, Linux, Jest, Jira  
-**Security:** OWASP Top 10, secure development practices  
-
-## Currently Learning
-TypeScript, Docker, CI/CD
+**Security & Networking:** Networking fundamentals, OWASP Top 10, secure development practices  
 
 ## Projects
 - [Clothing Management App](https://github.com/ferreira-ana/the-closet-app) - Full stack application with 
@@ -22,7 +18,6 @@ UX/UI designed and implemented from scratch.
 built with Java, SQL and React, structured around Onion Architecture with 
 a strong focus on software architecture documentation.
 
-You can find my portfolio linked in my bio.
 
 ## Open to Opportunities
 Currently based in Portugal, open to relocating within the EU (EU citizen).
